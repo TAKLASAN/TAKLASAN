@@ -5,6 +5,7 @@
 - 📫 How to reach me on linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
+-   Zabardast editing
 
 <!---
 TAKLASAN/TAKLASAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
